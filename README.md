@@ -53,10 +53,22 @@
 ![Image](https://github.com/user-attachments/assets/d9a3d785-0aea-4dec-8a23-4189ce749263)
 
 ### 電話・献立表
-* メニュー選択 店舗に電話、献立表を画像で送信、今日のお弁当の数を確認できる
+* メニュー選択 店舗に電話、献立表、今日のお弁当の数を確認できる
 
-![Image](https://github.com/user-attachments/assets/c6c7945b-d933-4b95-9de7-342944ff6b06)
+![Image](https://github.com/user-attachments/assets/a0799361-d461-4ace-84db-cd67deda5810)
+
+* お店の情報
+
+![Image](https://github.com/user-attachments/assets/71599694-8b44-4bfd-9c0b-35ceffe2cefd)
+
+* 献立表→何月の献立表か選択
+
+![Image](https://github.com/user-attachments/assets/feaad363-5cd1-4d4d-a4d9-326d052dda2d)
+
+* 献立表が画像で送られる
+
+![Image](https://github.com/user-attachments/assets/1fc40ef3-f579-49a5-92b7-3de3c561632c)
 
 * 今日のお弁当の数
 
-![Image](https://github.com/user-attachments/assets/ae6d7340-d19a-4f26-8cb1-3f55059273fd)
+![Image](https://github.com/user-attachments/assets/78caca34-370b-4f27-b642-dc2b38057547)
