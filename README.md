@@ -18,3 +18,5 @@
 * その日の弁当の数が分かるので、注文ミスに即日気づくことができる。
 
 ## 使い方
+* メニュー
+![Image](https://github.com/user-attachments/assets/1ab15991-e7a8-4308-8ed9-b4aff5750903)
