@@ -23,52 +23,52 @@
 ![Image](https://github.com/user-attachments/assets/1ab15991-e7a8-4308-8ed9-b4aff5750903)
 
 ### お弁当お休み登録
-* クールを選択
+* お休み登録→クールを選択
 
-![Image](https://github.com/user-attachments/assets/58a340a2-3074-4c07-815d-9cc6a7818a91)
+![Image](https://github.com/user-attachments/assets/46e60411-ef87-459c-9b48-a48f1c7045de)
 
 * 選択したクールの自分の注文状況が表示される
 
-![Image](https://github.com/user-attachments/assets/e35ea57d-2238-444e-bb6d-acf23d29b053)
+![Image](https://github.com/user-attachments/assets/f1e00114-eed0-4089-80b7-1e8f7b5b787d)
 
 * 日付の下の`◯` or `✕`のボタンをクリックすると`◯`と`✕`が反転する、変更のメッセージが表示される
 
-![Image](https://github.com/user-attachments/assets/e55c1efd-4879-4bd6-94f9-31f9e321c7e2)
+![Image](https://github.com/user-attachments/assets/6f5882a0-d6f6-4bbd-8d7f-6deb0c23c4ae)
 
 * そのクールすべて注文なしも可能
 
-![Image](https://github.com/user-attachments/assets/0002767c-0923-4e8a-bd46-f2ca46f2d1f6)
+![Image](https://github.com/user-attachments/assets/86f9646c-a0f7-4f2d-8900-47e24d6e08ec)
 
 * そのクールすべて注文はデフォルト、ボタンでも可能
   
-![Image](https://github.com/user-attachments/assets/2355e6c1-e0b6-4ce0-af5f-90b55e501bb9)
+![Image](https://github.com/user-attachments/assets/5199d166-9bc1-41d4-9713-074afc28cba7)
 
 ### 注文数・支払金額確認
-* クール選択
+* 支払金額→クール選択
 
-![Image](https://github.com/user-attachments/assets/f8405feb-87ba-499a-bbaf-6c675e70f4c2)
+![Image](https://github.com/user-attachments/assets/390fccae-acbc-4017-a791-148e2fc3a149)
 
 * そのクールの自分の注文個数と合計金額が表示される
 
-![Image](https://github.com/user-attachments/assets/d9a3d785-0aea-4dec-8a23-4189ce749263)
+![Image](https://github.com/user-attachments/assets/912feeae-c0bc-4e54-89e1-7e249fc0be24)
 
 ### 電話・献立表
 * メニュー選択 店舗に電話、献立表、今日のお弁当の数を確認できる
 
-![Image](https://github.com/user-attachments/assets/a0799361-d461-4ace-84db-cd67deda5810)
+![Image](https://github.com/user-attachments/assets/eee89cde-2e94-4651-94f5-58ffb10a831e)
 
 * お店の情報
 
-![Image](https://github.com/user-attachments/assets/71599694-8b44-4bfd-9c0b-35ceffe2cefd)
+![Image](https://github.com/user-attachments/assets/f4003b7f-a9de-4730-bf25-38b1440bf374)
 
 * 献立表→何月の献立表か選択
 
-![Image](https://github.com/user-attachments/assets/feaad363-5cd1-4d4d-a4d9-326d052dda2d)
+![Image](https://github.com/user-attachments/assets/6ec375ee-1c25-4459-80d8-0c0eec24f5d2)
 
 * 献立表が画像で送られる
 
-![Image](https://github.com/user-attachments/assets/1fc40ef3-f579-49a5-92b7-3de3c561632c)
+![Image](https://github.com/user-attachments/assets/e096f5e9-cf2d-48da-82f4-ea3692c78f55)
 
 * 今日のお弁当の数
 
-![Image](https://github.com/user-attachments/assets/78caca34-370b-4f27-b642-dc2b38057547)
+![Image](https://github.com/user-attachments/assets/062f47e8-a815-4144-811c-071bf1950d05)
